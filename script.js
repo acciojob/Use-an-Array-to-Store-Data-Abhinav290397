@@ -1,1 +1,1 @@
-let yourArray = ["Abhinav", 5, flase, {city:"bijnor"}, 85];
+let yourArray = ["Abhinav", 5, false, {city:"bijnor"}, 85];
